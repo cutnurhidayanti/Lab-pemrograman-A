@@ -1,0 +1,13 @@
+Selamat Datang di Game Who Want To be A Millionaire!!!
+
+undang-undang permainan :
+1. bentuk soal adalah pilihan ganda
+2. soal akan diberi satu per satu
+3. silahkan pilih jawaban terbaik 
+4. ketika jawaban anda benar maka soal berlanjut ke soal seterusnya dan scor akan bertambah
+5. ketika jawaban anda salah maka soal berlanjut ke soal seterusnya dan scor anda sebelumnya akan dibagi dua
+6. semua scor atau poin akan dikalikan 1000
+7. total uang yang berhak anda bawa adalah sebanyak scor x 1000
+8. ketika jawaban anda benar semua maka anda berhak membawa uang senilai 1 miliar
+
+semangat manteman....yok bisa...yok bisa...yok bisa:)
